@@ -73,7 +73,7 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 📊 [**FinAlyze**](https://github.com/jayant877/finanylyze) | Real-time stock financial analyser — quarterly results, valuation metrics, 1-year price charts | React · Node.js · MongoDB · AWS |
-| 🔬 | 🔬 [**LOB Price Predictor**](https://github.com/jayant877/lob-price-predictor) | ~70% directional accuracy on crypto tick data using Level-2 order book features | Python · XGBoost · LSTM · PyTorch |
+| 🔬 [**LOB Price Predictor**](https://github.com/jayant877/lob-price-predictor) | ~70% directional accuracy on crypto tick data using Level-2 order book features | Python · XGBoost · LSTM · PyTorch |
 | ⚖️ **Code Arena** *(coming soon)* | Scalable online judge with automated test-case validation pipeline | Node.js · React · AWS EC2 · Docker |
 
 ---
