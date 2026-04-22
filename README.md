@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jayant877&label=Profile%20views&color=0e75b6&style=flat" alt="jayant877" />
-  <a href="https://linkedin.com/in/jayantjain"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/jayant8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:cancerjk@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -73,7 +73,7 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 📊 [**FinAlyze**](https://github.com/jayant877/finanylyze) | Real-time stock financial analyser — quarterly results, valuation metrics, 1-year price charts | React · Node.js · MongoDB · AWS |
-| 🔬 **LOB Price Predictor** *(coming soon)* | ~70% directional accuracy on crypto tick data using Level-2 order book features | Python · XGBoost · LSTM · PyTorch |
+| 🔬 | 🔬 [**LOB Price Predictor**](https://github.com/jayant877/lob-price-predictor) | ~70% directional accuracy on crypto tick data using Level-2 order book features | Python · XGBoost · LSTM · PyTorch |
 | ⚖️ **Code Arena** *(coming soon)* | Scalable online judge with automated test-case validation pipeline | Node.js · React · AWS EC2 · Docker |
 
 ---
